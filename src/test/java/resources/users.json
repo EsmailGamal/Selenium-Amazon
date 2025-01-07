@@ -1,0 +1,10 @@
+{
+  "user1": {
+    "email": "1278308128",
+    "password": "AmazonTest"
+  },
+  "user2": {
+    "email": "user2@example.com",
+    "password": "secure456"
+  }
+}
